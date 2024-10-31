@@ -1,1 +1,7 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.item{
+	height: 500px;
+}
+img{
+	object-fit: fill;
+}
